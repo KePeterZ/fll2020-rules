@@ -39,7 +39,7 @@ X = 13.5 by Y = 45 in. (343 mm by 1,143 mm).
 use thin strips of black tape, covering only the mat’s
 east/west black borders
 
-[](./pics/mat1.png)
+![](./pics/mat1.png)
 
 ## Dual lock
 
@@ -53,7 +53,7 @@ __SECURING MODELS__ – “X” squares show where to
 Dual Lock models to the mat. Use the Dual Lock as in
 this example and be very exact.
 
-[](./pics/glue.png)
+![](./pics/glue.png)
 
 __MODEL STRESS__ – When pressing a model down, press on its lowest solid base instead of crushing the whole
 model. Lift that same part if you need to separate the model from the mat.
@@ -63,16 +63,16 @@ model. Lift that same part if you need to separate the model from the mat.
 __LOOSE MODELS__ – Place loose models as described or shown here. Models outside home need to be placed
 exactly within their outline marks and aligned with any directional marks.
 
-[](./pics/placement.png)
+![](./pics/placement.png)
 
 __HOME__ – Anywhere in home, place: 3 health units, 1 yellow cube, 2 red cubes, 2 blue cubes, 8 green cubes, and
 your Innovation Project (not shown here).
 
-[](./pics/home.png)
+![](./pics/home.png)
 
 ## Secured models
 
-[](./pics/securedmodels.png)
+![](./pics/securedmodels.png)
 
 ## Robot Game
 
@@ -89,7 +89,7 @@ be brought home by hand, but the team will lose a
 precision token. The team will play several matches
 but only the highest score matters.
 
-[](./pics/fullmat.png)
+![](./pics/fullmat.png)
 
 # Missions
 
@@ -99,7 +99,7 @@ but only the highest score matters.
 
 Small inspection base
 
-[](./pics/m00.png)
+![](./pics/m00.png)
 
 • If all your equipment fits in the small inspection space: `25`
 
@@ -108,7 +108,7 @@ inspection space. See Rule 09 for details._
 
 ## `M01:` __Innovation project__
 
-[](./pics/m01.png)
+![](./pics/m01.png)
 
 If your Innovation Project:
 * Is made of at least two white LEGO pieces
@@ -127,15 +127,15 @@ surprises at competitions._
 
 ## `M02:` __Step Counter__
 
-[](./pics/m02.png)
+![](./pics/m02.png)
 
 If the bottom of the pointer is on magenta: `10`, yellow: `15`, blue: `20`.
 
 Example pointer positions:
 
-[](./pics/m022.png)
+![](./pics/m022.png)
 
 ## `M03:` __Slide__
 
-[](./pics/m03.png)
+![](./pics/m03.png)
 
