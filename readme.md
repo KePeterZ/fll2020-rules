@@ -97,8 +97,6 @@ but only the highest score matters.
 
 `Doing the same with less` can save time and space.
 
-Small inspection base
-
 ![](./pics/m00.png)
 
 • If all your equipment fits in the small inspection space: `25`
@@ -139,3 +137,110 @@ Example pointer positions:
 
 ![](./pics/m03.png)
 
+- If only one slide figure is off the slide: `5`
+- If both slide figures are off the slide: `20`
+- If a slide figure is completely in home: `10 max`
+- If a slide figure is held completely off the mat by the
+heavy tire and is touching nothing else: `20 max`
+
+![](./pics/m032.png)
+
+_“Off the slide” scores if the slide figure’s black frame is past/
+below the tip of the slide’s gray slide part. Notice the score for
+two slide figures off is 20, not 25._
+
+## `M04:` __Bench__
+
+![](./pics/m04.png)
+
+- If the bench is down flat: `10`
+- If the bench is down flat and there are cubes touching the mat in hopscotch spaces: `10` each ___space___
+- If the backrest is completely out of both of its holes: `15`
+
+![](./pics/m042.png)
+
+## `M05:` __Basketball__
+
+![](./pics/m05.png)
+
+- If there is a cube in the crate: `15`
+- If the crate rests on the middle height’s white
+stopper: `15`
+- If the crate rests on the top height’s white stopper:
+`25`
+
+_Only one cube can score in the crate. Score top height or
+middle height, not both._
+
+![](./pics/m052.png)
+
+## `M06:` __Pull-up bar__
+
+![](./pics/m06.png)
+
+- If the robot passes completely through the pull-up
+bar’s upright frame at any time: 15 max
+- If the pull-up bar holds 100% of the robot up off the
+mat at the end of the match: 30
+
+_A “pass through” can score northward or southward, but
+only one way and only one time. A “pass through” scores at
+the time it happens. This is a rule R22 exception._
+
+
+_For the “held up” score, you cannot score this and M07 in
+the same match._
+
+## `M07:` __Robot dance__
+
+![](./pics/m07.png)
+
+- If the robot’s controller is at least partly over the dance floor in a “dancing” motion at the end of the match: `20`
+
+_Any silly or skilled repetitive action counts as dancing – do something fun! For M07, you cannot score this plus the “held up”
+score from M06 in the same match._
+
+## `M08:` __'Boccia'__
+
+![](./pics/m08.png)
+
+- If both share models have sent only one cube
+anywhere onto the opposing field and those cubes
+color-match each other: `25` __for each team__
+- If there are cubes completely in your frame or
+target: `5` __each cube__
+- If there is at least one yellow cube completely in
+your target: `10` __added__
+
+_If there is equipment even partly in your frame, M08 scores
+zero for you (the opposing team is not affected)._
+
+_If, like most teams, you have only your one practice table,
+your sent cube will simply go over your north wall during
+practice._
+
+_(Study the scoring examples as if both share models did
+share only one cube.)_
+
+![](./pics/m082.png)
+![](./pics/m083.png)
+
+## `M09:` __Tire Flip__
+
+![](./pics/m09.png)
+
+- If the light (blue tread) tire is white center up: `10`
+- If the heavy (black tread) tire is white center up: `15`
+- If white-center-up tires are completely in the large target circle: `5` __each__
+- For all scores, the tire needs to be resting on only the mat.
+
+_If the heavy tire crosses the red flip line at any time, even partly, it scores zero.
+The flip line runs all the way north to south. Only part of it is shown._
+
+![](./pics/m092.png)
+
+## `M10:` __Cellphone__
+
+![](./pics/m10.png)
+
+- If the cell phone is white side up and resting on only the mat: `15`
