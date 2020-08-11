@@ -1,10 +1,8 @@
 # RePlay rules and stuff
 
-## For this year's FLL Rules, click [here.](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/FLL-Challenge-RGR-Final-ONA.pdf?fbclid=IwAR0ciFW4XTLxX3fos_1igTqqYPhPwnLRtJe2lcAcwjSaOUXIr-eBfhgiXj4)
+### For this year's FLL Rules, click [here.](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/FLL-Challenge-RGR-Final-ONA.pdf?fbclid=IwAR0ciFW4XTLxX3fos_1igTqqYPhPwnLRtJe2lcAcwjSaOUXIr-eBfhgiXj4)
 
-## For this year's kick off video, click [here.](https://www.youtube.com/watch?v=IxpXg5J5WdY)
-
-The field consists of mission models on a mat surrounded by border walls. The mat and LEGO® pieces for building the mission models are in your Challenge set. The links and instructions needed for building and arranging everything are here.
+### For this year's kick off video, click [here.](https://www.youtube.com/watch?v=IxpXg5J5WdY)
 
 ## Mission model building
 
