@@ -4,6 +4,9 @@
 
 ### For this year's kick off video, click [here.](https://www.youtube.com/watch?v=IxpXg5J5WdY)
 
+### For the Rubrics (the rating papers) click [here.](https://firstinspiresst01.blob.core.windows.net/first-game-changers/fll-challenge/Rubrics.pdf)
+
+
 ## Mission model building
 
 The robot interacts with mission models on the field
